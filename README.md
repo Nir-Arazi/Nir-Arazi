@@ -11,28 +11,18 @@ SOC Analyst • DFIR • Threat Hunting • Malware Analysis
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Splunk-black?style=for-the-badge&logo=splunk&logoColor=white">
-<img src="https://img.shields.io/badge/QRadar-darkblue?style=for-the-badge">
-<img src="https://img.shields.io/badge/Wireshark-blue?style=for-the-badge&logo=wireshark&logoColor=white">
-<img src="https://img.shields.io/badge/PowerShell-blue?style=for-the-badge&logo=powershell">
-<img src="https://img.shields.io/badge/Linux-yellow?style=for-the-badge&logo=linux&logoColor=black">
+
+<img src="https://img.shields.io/badge/Digital%20Forensics-0f172a?style=for-the-badge&color=0f172a">
+<img src="https://img.shields.io/badge/Incident%20Response-111827?style=for-the-badge&color=111827">
+<img src="https://img.shields.io/badge/Threat%20Hunting-1f2937?style=for-the-badge&color=1f2937">
+<img src="https://img.shields.io/badge/Malware%20Analysis-1e293b?style=for-the-badge&color=1e293b">
+<img src="https://img.shields.io/badge/Memory%20Forensics-0b132b?style=for-the-badge&color=0b132b">
+<img src="https://img.shields.io/badge/Network%20Forensics-0a2540?style=for-the-badge&color=0a2540">
+
 </p>
 
 <hr>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Nir-Arazi&show_icons=true&theme=tokyonight&hide_border=true" height="160">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nir-Arazi&layout=compact&theme=tokyonight&hide_border=true" height="160">
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Nir-Arazi&theme=tokyonight&hide_border=true">
-</p>
-
-<p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nir-Arazi&theme=github-dark&hide_border=true">
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Nir-Arazi&label=Profile%20Views&color=grey&style=flat">
 </p>
