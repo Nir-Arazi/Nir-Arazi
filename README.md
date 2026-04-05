@@ -1,76 +1,30 @@
-</div>
-
 <div align="center">
-
-**`SOC Analyst · DFIR · Malware Analysis · Threat Intelligence`**
-
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-MeHelpMe-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/MeHelpMe)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nir_Arazi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nir-arazi)
-[![GitHub](https://img.shields.io/badge/GitHub-Nir--Arazi-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nir-Arazi)
-
+  <img src="header.svg" alt="Nir Arazi" width="100%">
 </div>
 
----
-```bash
-$ whoami
-> SOC/DFIR Analyst | Israel
-> Hunting threats by day, reversing malware by night
-> Goal: Threat Intelligence & Cybercrime Investigations
-```
+<br>
 
----
+## projects
 
-## ⚔️ Arsenal
-
-| Domain | Tools |
+| | |
 |---|---|
-| **SIEM** | Splunk, QRadar, ELK/Kibana |
-| **Malware Analysis** | IDA Pro, ProcMon, PEStudio, YARA |
-| **DFIR** | Volatility, Autopsy, Prefetch/Amcache/ShimCache |
-| **Threat Intel** | MISP, OpenCTI, VirusTotal, OTX |
-| **Automation** | n8n, Python |
-| **Lab** | Kali Linux, VMware, Docker |
+| **[DNS Tunnel Detector](link)** | Shannon entropy scoring · IOC flagging · verdict classification |
+| **[Global Threat Map](link)** | Animated attack arcs · MITRE ATT&CK labels |
+| **[Pcap_Crawler](link)** | PCAP forensics automation |
+| **[WFP Forensic Script](link)** | Windows Filtering Platform extraction |
+| **[WannaCry Analysis](link)** | Static + dynamic · kill switch bypass in IDA · custom YARA rule |
 
----
+## stack
 
-## 🔬 Notable Work
-
-### 🪱 WannaCry Deep Dive
-> Full static + dynamic analysis. Killed the kill switch in IDA. Wrote custom YARA rule.  
-> `PE Analysis` `IDA Pro` `Kill Switch Bypass` `YARA`
-
-### 🕵️ DNS Tunnel Detector
-> Shannon entropy scoring engine. IOC flagging, risk scoring, verdict classification.  
-> `Python` `Entropy Analysis` `IOC Detection`
-
-### 🌐 Global Threat Map
-> Animated attack arc visualizer with MITRE ATT&CK labels. CRT terminal aesthetic.  
-> `JavaScript` `MITRE ATT&CK` `Visualization`
-
-### 🔎 Pcap_Crawler
-> PCAP forensics automation tool.  
-> `Python` `Network Forensics`
-
-### 🛡️ WFP Forensic Script
-> Windows Filtering Platform forensic extraction script.  
-> `PowerShell` `Windows Internals`
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Nir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nir-Arazi&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ff4444&icon_color=ff4444)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nir-Arazi&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ff4444)
-
-</div>
+`Splunk` `ELK` `MISP` `OpenCTI` `IDA Pro` `Volatility` `YARA` `n8n` `Python` `Kali`
 
 ---
 
 <div align="center">
-
-*"Know your enemy, know yourself — and you need not fear the result of a hundred battles."*
-
+  <a href="https://tryhackme.com/p/MeHelpMe">
+    <img src="https://img.shields.io/badge/TryHackMe-top_6%25-red?style=flat-square&logo=tryhackme&logoColor=white">
+  </a>
+  <a href="https://linkedin.com/in/nir-arazi">
+    <img src="https://img.shields.io/badge/LinkedIn-Nir_Arazi-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
+  </a>
 </div>
