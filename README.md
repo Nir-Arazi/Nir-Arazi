@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://tryhackme.com/p/MeHelpMe">
-    <img src="https://img.shields.io/badge/TryHackMe-Top_6%25-red?style=flat-square&logo=tryhackme&logoColor=white">
+    <img src="https://img.shields.io/badge/TryHackMe-Top_3%25-red?style=flat-square&logo=tryhackme&logoColor=white">
   </a>
   <a href="https://linkedin.com/in/nir-arazi">
     <img src="https://img.shields.io/badge/LinkedIn-Nir_Arazi-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
